@@ -1,0 +1,15 @@
+C:\Kia\C#\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.exe
+C:\Kia\C#\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.deps.json
+C:\Kia\C#\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.runtimeconfig.json
+C:\Kia\C#\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.dll
+C:\Kia\C#\Tic Tac Toe\bin\Debug\net6.0\ref\Tic Tac Toe.dll
+C:\Kia\C#\Tic Tac Toe\bin\Debug\net6.0\Tic Tac Toe.pdb
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.AssemblyInfo.cs
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.dll
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\ref\Tic Tac Toe.dll
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.pdb
+C:\Kia\C#\Tic Tac Toe\obj\Debug\net6.0\Tic Tac Toe.genruntimeconfig.cache
